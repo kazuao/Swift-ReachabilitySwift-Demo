@@ -1,0 +1,6 @@
+framework module Pods_ReachabilitySwift_Demo {
+  umbrella header "Pods-ReachabilitySwift-Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
